@@ -9,8 +9,7 @@ Model uncertainty is widely acknowledged as a key challenge to scientific infere
 This replication package reproduces all results from:
 
 **Title:** Estimating the Extent and Sources of Model Uncertainty in Political Science  
-**Authors:** Michael Ganslmeier^, Tim Vlandas^^
-**Institutions:** ^University of Exeter / ^^University of Oxford
+**Authors:** Michael Ganslmeier (University of Exeter), Tim Vlandas (University of Oxford)
 **Journal:** *Proceedings of the National Academy of Sciences* (PNAS)  
 **Manuscript ID:** 2024-14926RR  
 **Version:** 15 May 2025  
