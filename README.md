@@ -1,7 +1,4 @@
----
-title: "Replication Package for: Estimating the Extent and Sources of Model Uncertainty in Political Science"
-output: html_document
----
+# Replication Package for: Estimating the Extent and Sources of Model Uncertainty in Political Science
 
 # Abstract
 
