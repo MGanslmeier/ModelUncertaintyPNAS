@@ -10,6 +10,7 @@ This replication package reproduces all results from:
 
 **Title:** Estimating the Extent and Sources of Model Uncertainty in Political Science  
 **Authors:** Michael Ganslmeier (University of Exeter), Tim Vlandas (University of Oxford)
+
 **Journal:** *Proceedings of the National Academy of Sciences* (PNAS)  
 **Manuscript ID:** 2024-14926RR  
 **Version:** 15 May 2025  
