@@ -1,4 +1,4 @@
-# Replication Package for: Estimating the Extent and Sources of Model Uncertainty in Political Science
+# Replication Package for: Estimating the Extent and Sources of Model Uncertainty in Political Science - Proceedings of the National Academy of Sciences
 
 # Abstract
 
